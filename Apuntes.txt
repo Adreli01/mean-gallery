@@ -1,0 +1,11 @@
+Video Youtube
+https://www.youtube.com/watch?v=4MEsROoq5Qw&t=1141s
+
+Inicializacion
+
+mongod (en cualquier carpeta - en esta ocacion en la carpeta mean-gallery) terminal VSC 1
+npm start (en carpeta photo-gallery-api) terminal VSC 2
+ng serve (en carpeta angular-photo-gallery) terminal VSC 3
+
+minuto 1:27:30 (fin de proyecto) despues de aqui explica como subir el proyecto
+100% funcionando
